@@ -1,0 +1,12 @@
+<resources>
+        <string name="app_name">MyApplication</string>
+        <string-array name="currency_options">
+            <item>USD to IDR</item>
+            <item>YEN to IDR</item>
+            <item>EUR to IDR</item>
+            <item>IDR to USD</item>
+            <item>IDR to YEN</item>
+            <item>IDR to EUR</item>
+        </string-array>
+
+</resources>
